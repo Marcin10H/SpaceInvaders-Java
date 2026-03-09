@@ -1,9 +1,5 @@
 # Space Invaders (Java) 🛸
 
-![Screen z gry Space Invaders](screenshots/gra.png)
-
-*Rozgrywka i ekran gry*
-
 Moja obiektowa implementacja gry Space Invaders. Jest to mój trzeci duży projekt akademicki (3. semestr), w którym skupiłem się na wykorzystaniu paradygmatów Programowania Obiektowego (OOP). Gra została napisana w czystej Javie, a za interfejs graficzny i pętlę gry odpowiadają standardowe biblioteki Java Swing oraz AWT.
 
 ## 🚀 Architektura i Funkcjonalności
@@ -30,3 +26,9 @@ Projekt nie używa zewnętrznych silników, opiera się na standardowej bibliote
 * **P** - Pauza / Wznowienie gry
 * **M** - Wyciszenie / Włączenie muzyki
 * **R** - Restart (po przegranej)
+
+## 📸 Zrzuty ekranu
+
+*Rozgrywka i ekran gry*
+
+![Screen z gry Space Invaders](screenshots/gra.png)
