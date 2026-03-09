@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"spaceinvaders","l":"Bullet"},{"p":"spaceinvaders","l":"Bunker"},{"p":"spaceinvaders","l":"Enemy"},{"p":"spaceinvaders","l":"EnemyBullet"},{"p":"spaceinvaders","l":"Game"},{"p":"tests","l":"GameTest"},{"p":"spaceinvaders","l":"Player"},{"p":"tests","l":"PlayerTest"}];updateSearchResults();
